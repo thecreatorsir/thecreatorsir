@@ -1,11 +1,11 @@
 # Hey There! <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/hi.gif" width="40px"></h2>
 
-#### Pushing and commiting something daily in life 🙏🏻.
+#### Pushing and Commiting something daily in life 🙏🏻.
 
 ### All you want to know 🙋🏻‍♂️
 
 You can call me **shubham aka thecreatorsir**,
-I am 21 and a **3rd Year Computer Science Student** [@Thapar University](https://www.thapar.edu/). 🎓,<br>**Web Dev Enthusiast** ⚡
+I am 22 and a **4th Year Computer Science Student** [@Thapar University](https://www.thapar.edu/). 🎓,<br>**Web Dev Enthusiast** ⚡
 
 _**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
 _**git commit:**_ _Self hosted products_ in making 🤩<br>
@@ -15,7 +15,8 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 [![linkedin Card](https://img.icons8.com/color/28/000000/linkedin.png)](https://www.linkedin.com/in/shubham-sharma-34bbab18b/)
 [![instagram Card](https://img.icons8.com/fluent/28/000000/instagram-new.png)](https://www.instagram.com/s_h_u_b_h_a_m05/)
-[![codechef Card](https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/Codechef.png)](https://www.codechef.com/users/shubham_0509) <br>
+[![codechef Card](https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/Codechef.png)](https://www.codechef.com/users/shubham_0509) 
+[![leetcode Card](https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/Leetcode.png)](https://leetcode.com/Aadi_Yogi/) <br>
 [![Gmail Badge](https://img.shields.io/badge/-s.psharma887@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:s.psharma887@gmail.com)](mailto:s.psharma887@gmail.com)
 
 <h3 align="center"><strong> Do Quality ⭐. &nbsp;Act Fast 🏃🏻‍♂️. &nbsp;Ship More 🚩</strong> </h3>
@@ -25,8 +26,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
 
-### inCoding 👨🏻‍💻
-
+  
 <img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
 <img src="https://img.icons8.com/fluent/28/000000/console.png"/>
 <img src="https://img.icons8.com/color/28/000000/git.png"/>
