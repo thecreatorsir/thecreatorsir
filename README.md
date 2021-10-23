@@ -25,7 +25,7 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 
 <details close>
 <summary><b>Find out who i 💗?</b> <i>(click to expand!)</i></summary>
-
+<br>
   
 <img src="https://img.icons8.com/color/28/000000/windows-10.png"/>
 <img src="https://img.icons8.com/fluent/28/000000/console.png"/>
