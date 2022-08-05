@@ -5,7 +5,7 @@
 ### All you want to know 🙋🏻‍♂️
 
 You can call me **shubham aka thecreatorsir**,
-I am 22 and a **4th Year Computer Science Student** [@Thapar University](https://www.thapar.edu/). 🎓,<br>**Web Dev Enthusiast** ⚡
+I am a **Software Engineer at** [@Paytm](https://paytm.com/), and **having a Computer Engineering degree from** [@Thapar University](https://www.thapar.edu/). 🎓,<br>**Web Dev Enthusiast** ⚡
 
 _**git pull:**_ _The Art of Writing Clean Code_ 👌🏻<br>
 _**git commit:**_ _Self hosted products_ in making 🤩<br>
