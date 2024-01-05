@@ -34,7 +34,6 @@ _**git checkout:**_ _Code_, _Design_ and _Space_ 🚀
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/code.png"/>
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/postman..png"/>
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/mongodb.png"/>
-<img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/firebase.png"/>
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/react.png"/>
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/nodejs.png"/> 
 <img src="https://github.com/thecreatorsir/thecreatorsir/blob/main/gifs/javascript.png"/> 
